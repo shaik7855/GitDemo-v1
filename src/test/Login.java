@@ -9,8 +9,9 @@ public class Login {
 
 	    // add two numbers
 	    int sum = first + second;
-	    System.out.println(first + " + " + second + " = "  + sum);
-	    System.out.println("updated for Git");
+	    System.out.println(first + " + " + second + " = "  + sum.......args..args..);
+	    System.out.println("updated for Git for conflict.................");
+	    System.out.println();
 	    //test
 
 	}
