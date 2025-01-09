@@ -13,6 +13,5 @@ public class Login {
 	    System.out.println("updated for Git for conflict.................");
 	    System.out.println();
 	    //test
-
 	}
 }
